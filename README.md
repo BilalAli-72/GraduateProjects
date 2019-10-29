@@ -1,2 +1,2 @@
 # GraduateProjects
-Bilal's Graduate Projects
+Bilal's Graduate Projects & Papers
